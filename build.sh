@@ -61,6 +61,7 @@ CONFIGURE_STRING="--prefix=/usr/local/php7 \
                   --enable-sysvshm \
                   --enable-wddx \
                   --with-zlib \
+                  --with-xsl \
                   --enable-zip \
                   --with-readline \
                   --with-curl \
