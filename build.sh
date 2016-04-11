@@ -19,7 +19,10 @@ sudo apt-get install -y \
     libjpeg-dev \
     libpng-dev \
     libpspell-dev \
-    libreadline-dev
+    libreadline-dev \
+    libxml2-dev \
+    libxslt1-dev \
+    python-dev
 
 sudo mkdir /usr/local/php7
 
